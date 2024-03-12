@@ -124,7 +124,7 @@ input::placeholder {
 }
 
 #full_row {
-    background-image: url(images/pic1.WEBP);
+    background-image: url(images/pic1.webp);
     background-size: cover;
     background-position:center;
     width: 100%;
